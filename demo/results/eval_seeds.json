@@ -1,0 +1,122 @@
+[
+  {
+    "seed": 0,
+    "ok": true,
+    "culprit_index": 11,
+    "expected": 11,
+    "recovered": true,
+    "verified": true,
+    "train_runs": 7,
+    "m_good": 0.74,
+    "m_bad": 0.421,
+    "drop_pp": 31.9
+  },
+  {
+    "seed": 1,
+    "ok": true,
+    "culprit_index": 11,
+    "expected": 11,
+    "recovered": true,
+    "verified": true,
+    "train_runs": 7,
+    "m_good": 0.966,
+    "m_bad": 0.37,
+    "drop_pp": 59.6
+  },
+  {
+    "seed": 2,
+    "ok": true,
+    "culprit_index": 11,
+    "expected": 11,
+    "recovered": true,
+    "verified": true,
+    "train_runs": 7,
+    "m_good": 0.594,
+    "m_bad": 0.418,
+    "drop_pp": 17.6
+  },
+  {
+    "seed": 3,
+    "ok": true,
+    "culprit_index": 11,
+    "expected": 11,
+    "recovered": true,
+    "verified": true,
+    "train_runs": 7,
+    "m_good": 0.817,
+    "m_bad": 0.379,
+    "drop_pp": 43.8
+  },
+  {
+    "seed": 4,
+    "ok": true,
+    "culprit_index": 11,
+    "expected": 11,
+    "recovered": true,
+    "verified": true,
+    "train_runs": 7,
+    "m_good": 0.98,
+    "m_bad": 0.403,
+    "drop_pp": 57.7
+  },
+  {
+    "seed": 5,
+    "ok": true,
+    "culprit_index": 11,
+    "expected": 11,
+    "recovered": true,
+    "verified": true,
+    "train_runs": 7,
+    "m_good": 0.976,
+    "m_bad": 0.418,
+    "drop_pp": 55.8
+  },
+  {
+    "seed": 6,
+    "ok": true,
+    "culprit_index": 11,
+    "expected": 11,
+    "recovered": true,
+    "verified": true,
+    "train_runs": 7,
+    "m_good": 0.918,
+    "m_bad": 0.41,
+    "drop_pp": 50.8
+  },
+  {
+    "seed": 7,
+    "ok": true,
+    "culprit_index": 11,
+    "expected": 11,
+    "recovered": true,
+    "verified": true,
+    "train_runs": 7,
+    "m_good": 0.987,
+    "m_bad": 0.366,
+    "drop_pp": 62.1
+  },
+  {
+    "seed": 8,
+    "ok": true,
+    "culprit_index": 11,
+    "expected": 11,
+    "recovered": true,
+    "verified": true,
+    "train_runs": 7,
+    "m_good": 0.946,
+    "m_bad": 0.383,
+    "drop_pp": 56.3
+  },
+  {
+    "seed": 9,
+    "ok": true,
+    "culprit_index": 11,
+    "expected": 11,
+    "recovered": true,
+    "verified": true,
+    "train_runs": 7,
+    "m_good": 0.797,
+    "m_bad": 0.378,
+    "drop_pp": 41.9
+  }
+]

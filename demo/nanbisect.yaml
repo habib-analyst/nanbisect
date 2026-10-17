@@ -1,0 +1,24 @@
+chunks:
+- data/chunk_00.npz
+- data/chunk_01.npz
+- data/chunk_02.npz
+- data/chunk_03.npz
+- data/chunk_04.npz
+- data/chunk_05.npz
+- data/chunk_06.npz
+- data/chunk_07.npz
+- data/chunk_08.npz
+- data/chunk_09.npz
+- data/chunk_10.npz
+- data/chunk_11.npz
+- data/chunk_12.npz
+- data/chunk_13.npz
+- data/chunk_14.npz
+- data/chunk_15.npz
+good_chunks: 8
+probe: data/probe.npz
+train_fn: train_demo.train
+metric_fn: train_demo.accuracy
+higher_is_better: true
+workdir: .nanbisect
+regression_tol: 0.0
